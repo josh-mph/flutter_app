@@ -1,2 +1,2 @@
-# vieta_app
-Flutter App for properties
+# flutter_app
+Flutter App Demo
